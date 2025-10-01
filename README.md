@@ -1,9 +1,9 @@
 ## Gabe Petitt
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-petitt-4583b8325%2F)
+![Lua](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=lua&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=FFDE57) ![Go](https://img.shields.io/badge/Go-00acd7?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-df0538?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Website](https://img.shields.io/badge/gpetitt.cc-darkgreen?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-petitt-4583b8325%2F)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat)](https://www.linkedin.com/in/gabriel-petitt-4583b8325/) [![Website](https://img.shields.io/badge/gpetitt.cc-darkgreen?style=flat)](https://gpetitt.cc/)
 
 <!--
 **ketzelmania/ketzelmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
