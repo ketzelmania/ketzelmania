@@ -1,4 +1,9 @@
-## Hi there 👋
+## Gabe Petitt
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-petitt-4583b8325%2F)
+
+![Website](https://img.shields.io/badge/gpetitt.cc-darkgreen?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-petitt-4583b8325%2F)
+
 
 <!--
 **ketzelmania/ketzelmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
