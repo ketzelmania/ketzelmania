@@ -1,5 +1,3 @@
-## Gabe Petitt
-
 <!-- languages -->
 ### Languages
 ![Lua](https://img.shields.io/badge/Lua-000081?style=flat&logo=lua&logoColor=white)
