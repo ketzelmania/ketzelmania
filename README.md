@@ -28,7 +28,6 @@
 <!-- links -->
 ### Links
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gabriel-petitt-4583b8325/)
-[![Website](https://img.shields.io/badge/gpetitt.cc-43A047?style=flat&logo=htmx&logoColor=white)](https://gpetitt.cc/)
 
 <!--
 **ketzelmania/ketzelmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
